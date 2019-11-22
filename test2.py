@@ -1,3 +1,4 @@
 import pandas
 
-swag
+import pandas
+import requests
